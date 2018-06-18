@@ -1765,7 +1765,7 @@ gerfor.175.a:0 "굉장하군!"
 
 gerfor.176.t:0 "폴란드 우리의 초대를 거절"
 gerfor.176.d:0 "외교적으로 폴란드를 방문하기위한 최선의 노력에도 불구하고 그들은 Reichspakt에 합류하기위한 우리의 공식 제안을 거부했다. 모든 징후는 받아들이는 것을 가리키고 있었고, 잘못되어있는 것은 무엇입니까?"
-gerfor.176.a:0 "How could this happen?"
+gerfor.176.a:0 "어떻게 이런 일이?"
 
 gerfor.177.t:0 "Reichspakt에 대한 재 초청"
 gerfor.177.d:0 "독일은 양국 간의 과거 선의의 의지와 비 침략 협약을 토대로 독일의 경제 및 군사 동맹 Reichspakt에 공식 초청을했다. 우리는 한때이 동맹국의 일원 이었지만, 독일의 엄지하에 머무르는 데 별 도움이되지 않았기 때문에 떠나기로했습니다. 초대장에 어떻게 응답해야합니까?"
@@ -1856,7 +1856,7 @@ GEX_becomes_GER:0 "§Y[GEX.GetNameDefCap]§!은 §Y[GER.GetNameDef]§!이 될것
 
 gerfla.12.t:0 "베를린으로 귀환"
 gerfla.12.d:0 "베를린은 한번더 [GEX.GetNameDef]의 부분이 되었다. 우리는 이제 정부를 독일 의회 (Reichstag)에있는 적절한 장소로 되돌려 보낼 수 있습니다."
-gerfla.12.a:0 "Excellent"
+gerfla.12.a:0 "훌륭해!"
 
 ### Reichspakt Events ###
 
